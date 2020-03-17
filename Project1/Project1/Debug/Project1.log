@@ -1,0 +1,6 @@
+﻿  game.c
+C:\1CODE\Project1\Project1\game.c(92,44): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+C:\1CODE\Project1\Project1\game.c(120,44): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+  test.c
+  正在生成代码...
+  Project1.vcxproj -> C:\1CODE\Project1\Debug\Project1.exe
