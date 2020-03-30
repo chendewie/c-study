@@ -11,7 +11,7 @@
 #define COLS COL+2
 
 #define EASY_COUNT 11
-#define HARD_COUNT 11
+#define HARD_COUNT 61
 
 void InitBoard(char board[ROWS][COLS], int rows, int cols, char set);
 void PrintBoard(char board[ROWS][COLS], int row, int col);

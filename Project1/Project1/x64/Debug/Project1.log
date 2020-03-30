@@ -1,4 +1,5 @@
-﻿  game.c
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Project1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
   test.c
   正在生成代码...
-  Project1.vcxproj -> C:\1CODE\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\My_CODE\test\Project1\x64\Debug\Saoleiyouxi.exe
