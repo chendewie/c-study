@@ -1,0 +1,8 @@
+﻿  call.c
+C:\My_CODE\test4-18\test4-18\call.c(36,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\My_CODE\test4-18\test4-18\call.c(95,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\My_CODE\test4-18\test4-18\call.c(115,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\My_CODE\test4-18\test4-18\call.c(134,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\My_CODE\test4-18\test4-18\call.c(138,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\My_CODE\test4-18\test4-18\call.c(167,10): warning C4477: “printf”: 格式字符串“%10s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+  test4-18.vcxproj -> C:\My_CODE\test4-18\Debug\test4-18.exe
