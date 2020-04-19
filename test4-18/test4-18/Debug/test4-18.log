@@ -1,8 +1,10 @@
-﻿  call.c
-C:\My_CODE\test4-18\test4-18\call.c(36,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-C:\My_CODE\test4-18\test4-18\call.c(95,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-C:\My_CODE\test4-18\test4-18\call.c(115,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-C:\My_CODE\test4-18\test4-18\call.c(134,11): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
-C:\My_CODE\test4-18\test4-18\call.c(138,11): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-C:\My_CODE\test4-18\test4-18\call.c(167,10): warning C4477: “printf”: 格式字符串“%10s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
-  test4-18.vcxproj -> C:\My_CODE\test4-18\Debug\test4-18.exe
+﻿Debug\call.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+test.obj : error LNK2019: 无法解析的外部符号 _myinit，该符号在函数 _main 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _myadd，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _mydele，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _myfind，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _myrevise，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _mydisplay，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _myempty，该符号在函数 _test 中被引用
+test.obj : error LNK2019: 无法解析的外部符号 _mysort，该符号在函数 _test 中被引用
+C:\My_CODE\test\test4-18\Debug\test4-18.exe : fatal error LNK1120: 8 个无法解析的外部命令
