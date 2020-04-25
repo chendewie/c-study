@@ -1,0 +1,4 @@
+﻿  test.c
+C:\My_CODE\test4-22\test4-22\test.c(2,34): warning C4615: #pragma warning: 未知的用户警告类型
+C:\My_CODE\test4-22\test4-22\test.c(14,7): warning C4101: “p”: 未引用的局部变量
+  test4-22.vcxproj -> C:\My_CODE\test4-22\Debug\test4-22.exe
